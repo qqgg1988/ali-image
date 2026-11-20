@@ -3,7 +3,7 @@
 阿力档案 · 每日悬案帖配图存档。直链格式：
 `https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/<文件名>`
 
-共 107 张。完整索引见 image_index.json。
+共 108 张。完整索引见 image_index.json。
 
 | 日期 | 帖子 | 文件 | 直链 |
 |---|---|---|---|
@@ -38,6 +38,7 @@
 | 2026-11-19 | 湖底挖出144个巨坑，300年的炮声却还没结案：塞内卡巨响 | 2026-11-19-seneca-lake.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-19-seneca-lake.jpg |
 | 2026-11-19 | 她说地球从来不是人类的：莱瑟塔档案 | 2026-11-19-sweden.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-19-sweden.jpg |
 | 2026-11-19 | 亚洲第一大江，突然断流两小时：1954年长江断流 | 2026-11-19-yangtze.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-19-yangtze.jpg |
+| 2026-11-20 | 200多条船沉在同一个地方，残骸却一艘都找不到：鄱阳湖老爷庙水域 | 2026-11-20-poyang-lake.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-20-poyang-lake.jpg |
 | 2026-11-08 | 入水不减速，出水一变二，军方十年后说是孔明灯：阿瓜迪利亚UAP事件 | aguadilla-airport.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/aguadilla-airport.jpg |
 | 2026-11-13 | 她本来只想拍彩虹，镜头里却飘过一只水母：安克雷奇水母状不明物 | anchorage-jellyfish-2026.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/anchorage-jellyfish-2026.jpg |
 | 2026-11-08 | 凌晨3点45分，9岁女孩独自走进暴雨：阿莎·德格里失踪案 | asha-lincoln.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/asha-lincoln.jpg |
