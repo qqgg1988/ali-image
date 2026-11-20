@@ -1,7 +1,7 @@
 {
  "repo": "qqgg1988/ali-image",
  "cdn_base": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main",
- "count": 103,
+ "count": 107,
  "images": [
   {
    "file": "2026-11-15-naga-fireballs.jpg",
@@ -418,6 +418,15 @@
    "size": 65825
   },
   {
+   "file": "gardner-empty-frames.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/gardner-empty-frames.jpg",
+   "date": "2026-11-20",
+   "title": "81分钟搬走5亿美元，35年过去墙上还挂着空画框：加德纳美术馆劫案",
+   "note": "被盗伦勃朗画作留下的空画框，荷兰厅，维基共享资源照片",
+   "post": "2026-11-20-1.md",
+   "size": 1988302
+  },
+  {
    "file": "gpm-j071507.png",
    "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/gpm-j071507.png",
    "date": "2026-11-13",
@@ -434,6 +443,15 @@
    "note": "雷·格里卡照片，来源：英文维基百科",
    "post": "2026-11-10-1.md",
    "size": 90450
+  },
+  {
+   "file": "halt-memo.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/halt-memo.jpg",
+   "date": "2026-11-20",
+   "title": "副司令写了备忘录，国防部说没这回事：伦德尔沙姆森林事件",
+   "note": "霍尔特中校1981年1月13日致英国国防部备忘录原件扫描件，维基共享资源",
+   "post": "2026-11-20-4.md",
+   "size": 513991
   },
   {
    "file": "helmsley-mausoleum.jpg",
@@ -715,6 +733,15 @@
    "size": 545954
   },
   {
+   "file": "racetrack-playa.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/racetrack-playa.jpg",
+   "date": "2026-11-20",
+   "title": "没人推也没风吹，几十斤的石头自己走了224米：死亡谷滑石",
+   "note": "赛道湖湖床与石块轨迹，维基共享资源照片",
+   "post": "2026-11-20-3.md",
+   "size": 366965
+  },
+  {
    "file": "scales-justice.jpg",
    "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/scales-justice.jpg",
    "date": "2026-11-04",
@@ -803,6 +830,15 @@
    "note": "星舰第 8 次飞行时拍摄的高空尾焰，来源：维基共享资源；与当晚佛州目击同为暮光尾焰现象，此图非当晚画面",
    "post": "2026-11-14-extra-ufo-night.md",
    "size": 50783
+  },
+  {
+   "file": "supreme-court-circuit4.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/supreme-court-circuit4.jpg",
+   "date": "2026-11-20",
+   "title": "他抢着承认自己是杀人犯，法院却死活不认：王书金案",
+   "note": "最高人民法院第四巡回法庭大楼外景，郑州，维基共享资源照片；非审理本案的法院，仅作法院建筑示意",
+   "post": "2026-11-20-2.md",
+   "size": 302163
   },
   {
    "file": "taos-pueblo.jpg",
