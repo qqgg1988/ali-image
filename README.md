@@ -3,7 +3,7 @@
 阿力档案 · 每日悬案帖配图存档。直链格式：
 `https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/<文件名>`
 
-共 103 张。完整索引见 image_index.json。
+共 107 张。完整索引见 image_index.json。
 
 | 日期 | 帖子 | 文件 | 直链 |
 |---|---|---|---|
@@ -53,8 +53,10 @@
 | 2026-11-05 | 掏了16只鸟，判了十年半：大学生掏鸟案 | eurasian-hobby.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/eurasian-hobby.jpg |
 | 2026-11-04 | 灯还亮着，人却没了：弗兰南群岛三守塔人失踪案 | flannan-lighthouse.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/flannan-lighthouse.jpg |
 | 2026-11-02 | “我们没时间了。”这是驾驶舱留下的最后一句话：佛罗里达私人飞机坠毁 | florida-crash.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/florida-crash.jpg |
+| 2026-11-20 | 81分钟搬走5亿美元，35年过去墙上还挂着空画框：加德纳美术馆劫案 | gardner-empty-frames.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/gardner-empty-frames.jpg |
 | 2026-11-13 | 每8分钟响一次，响6小时又静26小时，5000光年外有颗死星在打点：GPM J071507 | gpm-j071507.png | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/gpm-j071507.png |
 | 2026-11-10 | 硬盘先被拆下来，人才消失：检察官雷·格里卡失踪案 | gricar.png | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/gricar.png |
+| 2026-11-20 | 副司令写了备忘录，国防部说没这回事：伦德尔沙姆森林事件 | halt-memo.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/halt-memo.jpg |
 | 2026-11-05 | 孙辈一分没留，狗先分到1200万美元：赫尔姆斯利遗产案 | helmsley-mausoleum.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/helmsley-mausoleum.jpg |
 | 2026-11-04 | 激光照过去，光球闪烁立刻翻倍：赫斯达伦之光 | hessdalen-valley.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/hessdalen-valley.jpg |
 | 2026-11-12 | 找了40年，实验室里造不出来，天上一次出现26条：三氢离子的"禁戒之光" | hh211.png | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/hh211.png |
@@ -86,6 +88,7 @@
 | 2026-11-10 | 五大洲的电网每60秒一起心跳，查了十年，元凶是后备电源：电网60秒脉冲 | powergrid-pulse.png | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/powergrid-pulse.png |
 | 2026-11-08 | 死刑判了三次，改主意的却是同一家法院：李昌奎案 | qiaojia.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/qiaojia.jpg |
 | 2026-11-08 | 142度倾斜、548年一圈，它在倒着绕太阳转：鲁宾望远镜发现逆行天体R631 | r631-orbit.gif | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/r631-orbit.gif |
+| 2026-11-20 | 没人推也没风吹，几十斤的石头自己走了224米：死亡谷滑石 | racetrack-playa.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/racetrack-playa.jpg |
 | 2026-11-04 | “死者”活着回来了，被判死刑的人怎么办：佘祥林案 | scales-justice.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/scales-justice.jpg |
 | 2026-11-14 | 进了酒吧，就再也没出来：布莱恩·沙弗失踪案 | shaffer-gateway.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/shaffer-gateway.jpg |
 | 2026-11-05 | 飞机掉进海里，军方捞了三天，什么都没有：沙格港事件 | shag-harbour.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/shag-harbour.jpg |
@@ -96,6 +99,7 @@
 | 2026-11-12 | 杀完人自己打电话报案，挂电话前先笑一声：波士顿"咯咯笑"杀手 | south-station-1970.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/south-station-1970.jpg |
 | 2026-11-13 | 毕业典礼第二天，三个人在家里凭空消失了：斯普林菲尔德三人失踪案 | springfield-downtown.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/springfield-downtown.jpg |
 | 2026-11-14 | 全国飞机停飞，天上那个发光的东西还在飞：11月13日全美UFO之夜 | starship-flight8.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/starship-flight8.jpg |
+| 2026-11-20 | 他抢着承认自己是杀人犯，法院却死活不认：王书金案 | supreme-court-circuit4.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/supreme-court-circuit4.jpg |
 | 2026-11-05 | 全镇只有2%的人听见，仪器却什么都没录到：塔奥斯嗡嗡声 | taos-pueblo.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/taos-pueblo.jpg |
 | 2026-11-04 | 战斗机刚要开火，武器面板当场熄了：1976年德黑兰UFO拦截事件 | tehran-f4.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/tehran-f4.jpg |
 | 2026-11-14 | 火药库炸了，死者衣服却不翼而飞：王恭厂大爆炸 | tianqi-map-1626.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/tianqi-map-1626.jpg |
