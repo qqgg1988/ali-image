@@ -1,0 +1,934 @@
+{
+ "repo": "qqgg1988/ali-image",
+ "cdn_base": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main",
+ "count": 103,
+ "images": [
+  {
+   "file": "2026-11-15-naga-fireballs.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-15-naga-fireballs.jpg",
+   "date": "2026-11-15",
+   "title": "每年满月那一夜，几百个火球从河里自己升起来：湄公河火球",
+   "note": "出火节当晚湄公河畔实景，来源：Earth Is Weird",
+   "post": "2026-11-15-3.md",
+   "size": 754913
+  },
+  {
+   "file": "2026-11-15-rat-rabbit-heads.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-15-rat-rabbit-heads.jpg",
+   "date": "2026-11-15",
+   "title": "拍下2.7亿文物，然后当众说我不付钱：蔡铭超兽首案",
+   "note": "鼠首与兔首在国家博物馆展出时的照片，来源：三联生活周刊",
+   "post": "2026-11-15-2.md",
+   "size": 53068
+  },
+  {
+   "file": "2026-11-15-route542-crossing.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-15-route542-crossing.jpg",
+   "date": "2026-11-15",
+   "title": "8英尺高、浑身黑毛，雨夜里四五秒穿过整条公路：542号公路目击",
+   "note": "雨夜公路目击场景示意图，来源：Mysterious Universe",
+   "post": "2026-11-15-4.md",
+   "size": 97141
+  },
+  {
+   "file": "2026-11-15-tianchi-lake.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-15-tianchi-lake.jpg",
+   "date": "2026-11-15",
+   "title": "湖面2198米高，六个“怪物”排着队游了一个半小时：长白山天池水怪",
+   "note": "长白山天池实景，非水怪本身，来源：My China Holiday",
+   "post": "2026-11-15-reserve-1.md",
+   "size": 758059
+  },
+  {
+   "file": "2026-11-15-valentich-cessna182.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-15-valentich-cessna182.jpg",
+   "date": "2026-11-15",
+   "title": "“它不是一架飞机”：飞行员在电台里消失的六分钟：瓦伦蒂奇失踪案",
+   "note": "同型塞斯纳182轻型飞机飞行照，非涉事飞机本身，来源：Pilot Institute",
+   "post": "2026-11-15-1.md",
+   "size": 176155
+  },
+  {
+   "file": "2026-11-16-calico-nm47.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-16-calico-nm47.jpg",
+   "date": "2026-11-16",
+   "title": "自行车没回来，九个月后照片出现在2400公里外：塔拉·卡利科失踪案",
+   "note": "新墨西哥州空旷公路实景，非事发路段，来源：dankalal.org 新墨西哥公路摄影集",
+   "post": "2026-11-16-1.md",
+   "size": 78093
+  },
+  {
+   "file": "2026-11-16-great-blue-heron.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-16-great-blue-heron.jpg",
+   "date": "2026-11-16",
+   "title": "一段一秒半的夜空视频，传成了灭绝6600万年的翼龙还活着：华雷斯城翼龙事件",
+   "note": "大蓝鹭飞行照，来源：维基共享资源；墨西哥媒体请的专家认定视频中的剪影就是这种鸟，此图非视频截图",
+   "post": "2026-11-16-extra-pterodactyl.md",
+   "size": 57540
+  },
+  {
+   "file": "2026-11-16-kunming-street.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-16-kunming-street.jpg",
+   "date": "2026-11-16",
+   "title": "妻子和副局长死在警车里，丈夫被判死刑，真凶却是另一伙人：杜培武案",
+   "note": "昆明街景实拍，非事发路段，来源：维基共享资源",
+   "post": "2026-11-16-2.md",
+   "size": 359199
+  },
+  {
+   "file": "2026-11-16-nanda-clue-board-v2.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-16-nanda-clue-board-v2.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 774829
+  },
+  {
+   "file": "2026-11-16-nanda-clue-board.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-16-nanda-clue-board.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 531775
+  },
+  {
+   "file": "2026-11-16-nanjing-university.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-16-nanjing-university.jpg",
+   "date": "2026-11-16",
+   "title": "2000多片，切得整整齐齐，30年了没人知道他是谁：南京大学碎尸案",
+   "note": "南京大学鼓楼校区牌楼实景，非案发地，来源：江苏招生考试网",
+   "post": "2026-11-16-reserve-1.md",
+   "size": 205713
+  },
+  {
+   "file": "2026-11-16-toi2535b.webp",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-16-toi2535b.webp",
+   "date": "2026-11-16",
+   "title": "盯了七年，一颗巨行星当着望远镜的面消失了：TOI-2535b",
+   "note": "热木星示意图，非TOI-2535b本身，来源：ScienceAlert，图源NASA/ESA",
+   "post": "2026-11-16-3.md",
+   "size": 107060
+  },
+  {
+   "file": "2026-11-16-westall-playground.webp",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-16-westall-playground.webp",
+   "date": "2026-11-16",
+   "title": "200多人白天看着飞碟落地，军方档案却一页纸都没有：韦斯托尔UFO事件",
+   "note": "事发地The Grange纪念飞碟主题游乐场实景，非事件本身，来源：Theories of the Third Kind",
+   "post": "2026-11-16-4.md",
+   "size": 80778
+  },
+  {
+   "file": "2026-11-17-anna-nicole-smith.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-17-anna-nicole-smith.jpg",
+   "date": "2026-11-17",
+   "title": "嫁给89岁亿万富翁14个月，打了20年官司却一分没拿到：安娜·妮可·史密斯遗产案",
+   "note": "安娜·妮可·史密斯，2005年，来源：维基共享资源",
+   "post": "2026-11-17-2.md",
+   "size": 94421
+  },
+  {
+   "file": "2026-11-17-kings-cross.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-17-kings-cross.jpg",
+   "date": "2026-11-17",
+   "title": "往返票只贵50便士，他偏要买单程：安德鲁·戈斯登失踪案",
+   "note": "2007年伦敦国王十字车站外景，安德鲁最后一次被监控拍到的地点，来源：维基共享资源 geograph.org.uk",
+   "post": "2026-11-17-1.md",
+   "size": 111878
+  },
+  {
+   "file": "2026-11-17-milky-sea.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-17-milky-sea.jpg",
+   "date": "2026-11-17",
+   "title": "整片大海亮了40多个夜晚，卫星上看像一块发光大陆：乳海现象",
+   "note": "2019年8月4日爪哇岛以南乳海的Suomi NPP卫星VIIRS昼夜波段影像，来源：NASA Earth Observatory",
+   "post": "2026-11-17-3.md",
+   "size": 833537
+  },
+  {
+   "file": "2026-11-17-shennongjia-forest.webp",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-17-shennongjia-forest.webp",
+   "date": "2026-11-17",
+   "title": "进山找野人的一百多人，带回来的却是一只猴子：神农架野人",
+   "note": "神农架原始森林实景，非目击地，来源：UNESCO世界遗产中心，摄影：蒋勇，中国科学院植物研究所",
+   "post": "2026-11-17-reserve-1.md",
+   "size": 325346
+  },
+  {
+   "file": "2026-11-17-socorro-sketch.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-17-socorro-sketch.jpg",
+   "date": "2026-11-17",
+   "title": "警车追到一半他调了头，河床里停着一颗铝蛋：索科罗事件",
+   "note": "根据萨莫拉描述绘制的目击物示意图，非实拍，来源：维基共享资源",
+   "post": "2026-11-17-4.md",
+   "size": 418975
+  },
+  {
+   "file": "2026-11-18-atm.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-18-atm.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 398745
+  },
+  {
+   "file": "2026-11-18-blood-falls.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-18-blood-falls.jpg",
+   "date": "2026-11-18",
+   "title": "南极冰川流血115年，血里还住着一群细菌：血瀑布",
+   "note": "血瀑布实景，2010年，来源：维基共享资源",
+   "post": "2026-11-18-3.md",
+   "size": 474450
+  },
+  {
+   "file": "2026-11-18-fuxian.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-18-fuxian.jpg",
+   "date": "2026-11-18",
+   "title": "湖底2.4平方公里的石城，史书里却一个字都没提：抚仙湖水下古城",
+   "note": "抚仙湖湖面实景，非水下遗址，来源：维基共享资源",
+   "post": "2026-11-18-reserve-1.md",
+   "size": 610951
+  },
+  {
+   "file": "2026-11-18-geneva.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-18-geneva.jpg",
+   "date": "2026-11-18",
+   "title": "昏迷一年醒来，他说自己在3906年当了一年物理教授：迪纳赫手稿",
+   "note": "日内瓦湖实景，瑞士城市风光，非事件本身，来源：维基共享资源",
+   "post": "2026-11-18-4.md",
+   "size": 559142
+  },
+  {
+   "file": "2026-11-18-hessdalen.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-18-hessdalen.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 371144
+  },
+  {
+   "file": "2026-11-18-isdalen.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-18-isdalen.jpg",
+   "date": "2026-11-18",
+   "title": "八个假身份、五十颗安眠药，烧掉的却只有她自己：伊斯达尔女人",
+   "note": "伊斯达伦山谷实景，非案发现场，来源：维基共享资源",
+   "post": "2026-11-18-1.md",
+   "size": 644558
+  },
+  {
+   "file": "2026-11-18-manhole.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-18-manhole.jpg",
+   "date": "2026-11-18",
+   "title": "厕所旁的盖板断了，人没了，告了一圈才找到该赔的人：北京化粪池溺亡案",
+   "note": "井盖实景示意，非涉案盖板，来源：维基共享资源",
+   "post": "2026-11-18-2.md",
+   "size": 876952
+  },
+  {
+   "file": "2026-11-18-mona-lisa-empty-room.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-18-mona-lisa-empty-room.jpg",
+   "date": "2026-11-18",
+   "title": "他说人类已经消失，却抱着蒙娜丽莎坐上了地铁：白面具2055事件",
+   "note": "卢浮宫内空无一人的蒙娜丽莎展厅实景，真迹封存于玻璃柜内，非视频截图，来源：维基共享资源",
+   "post": "2026-11-18-extra-whitemask2055.md",
+   "size": 224254
+  },
+  {
+   "file": "2026-11-19-glenelg.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-19-glenelg.jpg",
+   "date": "2026-11-19",
+   "title": "一张1英镑纸币，三个孩子消失了60年：博蒙特三兄妹失踪案",
+   "note": "格莱内尔格海滩实景，非案发现场，来源：维基共享资源",
+   "post": "2026-11-19-1.md",
+   "size": 640154
+  },
+  {
+   "file": "2026-11-19-rybolovlev.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-19-rybolovlev.jpg",
+   "date": "2026-11-19",
+   "title": "钱还在他手里，离婚时却不算他的：雷博洛夫列夫世纪离婚案",
+   "note": "德米特里·雷博洛夫列夫，来源：维基共享资源",
+   "post": "2026-11-19-2.md",
+   "size": 317753
+  },
+  {
+   "file": "2026-11-19-seneca-lake.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-19-seneca-lake.jpg",
+   "date": "2026-11-19",
+   "title": "湖底挖出144个巨坑，300年的炮声却还没结案：塞内卡巨响",
+   "note": "塞内卡湖实景，来源：维基共享资源",
+   "post": "2026-11-19-3.md",
+   "size": 506811
+  },
+  {
+   "file": "2026-11-19-sweden.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-19-sweden.jpg",
+   "date": "2026-11-19",
+   "title": "她说地球从来不是人类的：莱瑟塔档案",
+   "note": "瑞典南部乡野实景，非事件本身，来源：维基共享资源",
+   "post": "2026-11-19-4.md",
+   "size": 554905
+  },
+  {
+   "file": "2026-11-19-yangtze.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-19-yangtze.jpg",
+   "date": "2026-11-19",
+   "title": "亚洲第一大江，突然断流两小时：1954年长江断流",
+   "note": "长江泰州段实景，来源：维基共享资源",
+   "post": "2026-11-19-reserve-1.md",
+   "size": 237948
+  },
+  {
+   "file": "aguadilla-airport.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/aguadilla-airport.jpg",
+   "date": "2026-11-08",
+   "title": "入水不减速，出水一变二，军方十年后说是孔明灯：阿瓜迪利亚UAP事件",
+   "note": "拉斐尔·埃尔南德斯机场实景，事发地，来源：维基共享资源；图为机场本身，并非画面中的不明物体",
+   "post": "2026-11-08-4.md",
+   "size": 82860
+  },
+  {
+   "file": "anchorage-jellyfish-2026.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/anchorage-jellyfish-2026.jpg",
+   "date": "2026-11-13",
+   "title": "她本来只想拍彩虹，镜头里却飘过一只水母：安克雷奇水母状不明物",
+   "note": "奥斯本拍摄视频中的一帧，彩虹下方的黑色水母状物体，来源：Mysterious Universe文章配图，转自当事人视频",
+   "post": "2026-11-13-4.md",
+   "size": 101506
+  },
+  {
+   "file": "asha-lincoln.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/asha-lincoln.jpg",
+   "date": "2026-11-08",
+   "title": "凌晨3点45分，9岁女孩独自走进暴雨：阿莎·德格里失踪案",
+   "note": "1975年款林肯大陆Mark IV实车照片，与FBI描述的70年代初深绿色同款车型一致，来源：英文维基百科；阿莎本人照片按惯例不使用",
+   "post": "2026-11-08-early-1.md",
+   "size": 379659
+  },
+  {
+   "file": "atm.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/atm.jpg",
+   "date": "2026-11-04",
+   "title": "取1000块只扣1块钱，他按了171次：许霆案",
+   "note": "WordPress Photo Directory CC0照片，黄色的圆形取款机，非案件当事人照片；维基共享资源ATM图因限流429未能下载，已改用该开源图",
+   "post": "2026-11-04-early-1.md",
+   "size": 87906
+  },
+  {
+   "file": "belgian-f16.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/belgian-f16.jpg",
+   "date": "2026-11-07",
+   "title": "战斗机锁住了它三次，飞行员却什么都没看见：比利时UFO浪潮",
+   "note": "比利时空军F-16战机实景，同型装备，来源：维基共享资源，CC BY 2.0；注意：著名的佩蒂-雷尚三角照片2011年已被拍摄者承认为造假，本篇不用作证据",
+   "post": "2026-11-07-4.md",
+   "size": 4196312
+  },
+  {
+   "file": "bladenboro-bobcat.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/bladenboro-bobcat.jpg",
+   "date": "2026-11-08",
+   "title": "十天咬死七条狗，血却一滴不剩：布莱登伯勒野兽",
+   "note": "短尾猫实拍，来源：The Avid Outdoorsman；注意：图中的短尾猫并非1954年被捕的那只，是否为真凶至今未证实",
+   "post": "2026-11-08-early-4.md",
+   "size": 292740
+  },
+  {
+   "file": "bloop-spectrogram.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/bloop-spectrogram.jpg",
+   "date": "2026-11-06",
+   "title": "一声巨响传了5000公里，科学家找了15年才知道它是什么：深海异响Bloop",
+   "note": "NOAA公布的Bloop声波频谱图，来源：维基共享资源",
+   "post": "2026-11-06-3.md",
+   "size": 16029
+  },
+  {
+   "file": "calvine-photo.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/calvine-photo.jpg",
+   "date": "2026-11-14",
+   "title": "拍到了，底片没了，人找不到了：卡尔文UFO照片",
+   "note": "卡尔文UFO原版照片，1990年8月4日拍摄，Kevin Russell 摄，版权归《每日记录报》；2022年8月经大卫·克拉克与《每日邮报》公开，来源：维基百科条目配图",
+   "post": "2026-11-14-4.md",
+   "size": 58569
+  },
+  {
+   "file": "cash-landrum.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/cash-landrum.jpg",
+   "date": "2026-11-10",
+   "title": "23架直升机围着一颗钻石飞，三个人回家就病倒了：卡什-兰德拉姆事件",
+   "note": "卡什-兰德拉姆事件示意图，来源：维基共享资源，非实拍照片",
+   "post": "2026-11-10-4.md",
+   "size": 39729
+  },
+  {
+   "file": "colares-mural.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/colares-mural.jpg",
+   "date": "2026-11-04",
+   "title": "军方自己派了调查队，光却照单全收地继续来了四个月：科拉里斯光束事件",
+   "note": "科拉里斯当地餐馆前的外星人造型装饰，维基共享资源，非现象本身的照片",
+   "post": "2026-11-04-rerun-test-4.md",
+   "size": 1305372
+  },
+  {
+   "file": "court-gavel.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/court-gavel.jpg",
+   "date": "2026-11-06",
+   "title": "母亲当众受辱，儿子一刀捅死讨债人，一审无期二审五年：于欢案",
+   "note": "法槌，维基共享资源照片，非案件当事人或现场照片",
+   "post": "2026-11-06-2.md",
+   "size": 641861
+  },
+  {
+   "file": "devil.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/devil.jpg",
+   "date": "2026-11-11",
+   "title": "一夜之间，蹄印走过100英里雪地，还翻过屋顶：魔鬼脚印",
+   "note": "1855年《伦敦新闻画报》刊载的蹄印示意图，来源：维基共享资源",
+   "post": "2026-11-11-3.md",
+   "size": 33310
+  },
+  {
+   "file": "eurasian-hobby.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/eurasian-hobby.jpg",
+   "date": "2026-11-05",
+   "title": "掏了16只鸟，判了十年半：大学生掏鸟案",
+   "note": "燕隼，涉案的国家二级保护动物，维基共享资源照片，非涉案个体",
+   "post": "2026-11-05-2.md",
+   "size": 164898
+  },
+  {
+   "file": "flannan-lighthouse.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/flannan-lighthouse.jpg",
+   "date": "2026-11-04",
+   "title": "灯还亮着，人却没了：弗兰南群岛三守塔人失踪案",
+   "note": "Chris Downer 摄于弗兰南群岛灯塔，CC BY-SA 2.0，经 Geograph 原图",
+   "post": "2026-11-04-early-2.md",
+   "size": 60919
+  },
+  {
+   "file": "florida-crash.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/florida-crash.jpg",
+   "date": "2026-11-02",
+   "title": "“我们没时间了。”这是驾驶舱留下的最后一句话：佛罗里达私人飞机坠毁",
+   "note": "美联社照片，VnExpress 刊载，坠机现场",
+   "post": "2026-11-02-florida-learjet.md",
+   "size": 65825
+  },
+  {
+   "file": "gpm-j071507.png",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/gpm-j071507.png",
+   "date": "2026-11-13",
+   "title": "每8分钟响一次，响6小时又静26小时，5000光年外有颗死星在打点：GPM J071507",
+   "note": "GPM J071507-114153双星系统示意图，来源：科廷大学/ICRAR新闻稿配图",
+   "post": "2026-11-13-3.md",
+   "size": 577231
+  },
+  {
+   "file": "gricar.png",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/gricar.png",
+   "date": "2026-11-10",
+   "title": "硬盘先被拆下来，人才消失：检察官雷·格里卡失踪案",
+   "note": "雷·格里卡照片，来源：英文维基百科",
+   "post": "2026-11-10-1.md",
+   "size": 90450
+  },
+  {
+   "file": "helmsley-mausoleum.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/helmsley-mausoleum.jpg",
+   "date": "2026-11-05",
+   "title": "孙辈一分没留，狗先分到1200万美元：赫尔姆斯利遗产案",
+   "note": "赫尔姆斯利家族陵墓，位于纽约沉睡谷公墓，维基共享资源，公共领域；“麻烦”最终没能葬入此处",
+   "post": "2026-11-05-extra-helmsley.md",
+   "size": 242639
+  },
+  {
+   "file": "hessdalen-valley.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/hessdalen-valley.jpg",
+   "date": "2026-11-04",
+   "title": "激光照过去，光球闪烁立刻翻倍：赫斯达伦之光",
+   "note": "赫斯达伦山谷的雪原木屋，1953年冬，挪威国家档案馆藏，维基共享资源 CC BY-SA 4.0；这是山谷本谷照片，不是光球照片，光球至今没有一张可自由使用的权威照片；原图已缩小",
+   "post": "2026-11-04-extra-3.md",
+   "size": 191401
+  },
+  {
+   "file": "hh211.png",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/hh211.png",
+   "date": "2026-11-12",
+   "title": "找了40年，实验室里造不出来，天上一次出现26条：三氢离子的\"禁戒之光\"",
+   "note": "赫比格-哈罗天体HH 211的新生恒星喷流，来源：ScienceAlert原文配图，ESA/Webb、NASA、CSA、T. Ray；同一禁戒信号在HH 168首现，HH 211存档数据中也有，图为HH 211",
+   "post": "2026-11-12-3.md",
+   "size": 251421
+  },
+  {
+   "file": "hinterkaifeck-farm.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/hinterkaifeck-farm.jpg",
+   "date": "2026-11-04",
+   "title": "雪地上的脚印只来不回，凶手杀完人还住了几天：欣特卡伊费克灭门案",
+   "note": "案发5天后即1922年4月5日拍下的欣特卡伊费克农场，Andreas Biegleder 摄，维基共享资源，公共领域",
+   "post": "2026-11-04-extra-1.md",
+   "size": 205848
+  },
+  {
+   "file": "hopkinsville.png",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/hopkinsville.png",
+   "date": "2026-11-11",
+   "title": "开了4小时枪，“小绿人”一个没倒下：凯利-霍普金斯维尔遭遇",
+   "note": "目击者描述绘制的“霍普金斯维尔小绿人”示意图，来源：维基共享资源",
+   "post": "2026-11-11-4.md",
+   "size": 719543
+  },
+  {
+   "file": "isdal-sketch.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/isdal-sketch.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 58959
+  },
+  {
+   "file": "isdal-sketch.webp",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/isdal-sketch.webp",
+   "date": "2026-11-03",
+   "title": "用了八个假名、撕掉所有标签，她却连名字都没留下：冰谷女",
+   "note": "法医艺术家 Stephen Missal 2016年素描，刊于 Mental Floss 来源文章，非本人照片",
+   "post": "2026-11-03-1.md",
+   "size": 49544
+  },
+  {
+   "file": "jal1628-sketch.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/jal1628-sketch.jpg",
+   "date": "2026-11-06",
+   "title": "机长说它比航母还大两倍，跟了747整整640公里：日航1628号班机事件",
+   "note": "艺术家根据机组描述绘制的事件示意图，维基共享资源；非当晚实拍，也不是机长手绘原图",
+   "post": "2026-11-06-4.md",
+   "size": 54469
+  },
+  {
+   "file": "jamison.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/jamison.jpg",
+   "date": "2026-11-11",
+   "title": "3.2万美元原封不动留在车里，一家三口却再也没回来：杰米森一家失踪案",
+   "note": "瓦希托山脉实景，来源：维基共享资源，非案发现场照片",
+   "post": "2026-11-11-1.md",
+   "size": 220245
+  },
+  {
+   "file": "kerala-red-rain.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/kerala-red-rain.jpg",
+   "date": "2026-11-09",
+   "title": "下了两个月血红色的雨，雨里还捞出了活细胞：喀拉拉红雨",
+   "note": "2001年喀拉拉红雨水样，左为雨水样本、右为颗粒沉淀后，来源：维基共享资源",
+   "post": "2026-11-09-3.md",
+   "size": 14186
+  },
+  {
+   "file": "kinross-airbase.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/kinross-airbase.jpg",
+   "date": "2026-11-09",
+   "title": "两个雷达光点合而为一，战斗机那一个再也没分开：金罗斯事件",
+   "note": "2006年航拍，原金罗斯空军基地，今奇珀瓦县国际机场，来源：美国地质调查局，经维基共享资源；图为基地本身，并非失踪战机",
+   "post": "2026-11-09-4.md",
+   "size": 236106
+  },
+  {
+   "file": "kunming-skyline.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/kunming-skyline.jpg",
+   "date": "2026-11-14",
+   "title": "死刑判了，12年后他却在夜店当老板：孙小果案",
+   "note": "昆明市容，来源：维基共享资源；事发地实景，非涉案人员照片",
+   "post": "2026-11-14-2.md",
+   "size": 45159
+  },
+  {
+   "file": "kunshan-street.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/kunshan-street.jpg",
+   "date": "2026-11-04",
+   "title": "砍人的刀掉在地上，捡刀的人却成了被告：昆山反杀案",
+   "note": "昆山亭林路街景，维基共享资源，非案发当日现场照片",
+   "post": "2026-11-04-rerun-test-2.md",
+   "size": 195441
+  },
+  {
+   "file": "ky26-gemini.webp",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/ky26-gemini.webp",
+   "date": "2026-11-08",
+   "title": "11米的石头自己加速，冰的解释却被体温否了：1998 KY26",
+   "note": "2025年双子座南方望远镜实拍，KY26是画面中央的小白点，来源：ScienceAlert原文配图，国际双子座天文台/NOIRLab；小行星真实样貌至今未知",
+   "post": "2026-11-08-early-3.md",
+   "size": 9458
+  },
+  {
+   "file": "lady-of-the-dunes.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/lady-of-the-dunes.jpg",
+   "date": "2026-11-07",
+   "title": "48年没有名字，DNA还她一个名字：沙丘女士案",
+   "note": "2010年根据颅骨CT制作的面部复原图，来源：英文维基百科",
+   "post": "2026-11-07-1.md",
+   "size": 9103
+  },
+  {
+   "file": "lars-mittank.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/lars-mittank.jpg",
+   "date": "2026-11-09",
+   "title": "监控里他突然起身狂奔，翻过两米围栏冲进向日葵田：拉尔斯·米坦克失踪案",
+   "note": "拉尔斯·米坦克2013年照片，来源：维基共享资源",
+   "post": "2026-11-09-1.md",
+   "size": 75091
+  },
+  {
+   "file": "lead-masks.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/lead-masks.jpg",
+   "date": "2026-11-02",
+   "title": "“18点30分，服下胶囊，等待信号。”写下这行字后，两个人戴着铅面具死了：巴西铅面具案",
+   "note": "维基共享资源，两位死者照片",
+   "post": "2026-11-02-2.md",
+   "size": 68614
+  },
+  {
+   "file": "mad-trapper-posse.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/mad-trapper-posse.jpg",
+   "date": "2026-11-04",
+   "title": "一个名字是借来的，追了他六周的人到死都没听他说过一句话：疯狂捕手",
+   "note": "追捕疯狂捕手的皇家骑警队员合影，皇家骑警摄，维基共享资源，公共领域",
+   "post": "2026-11-04-rerun-test-1.md",
+   "size": 237648
+  },
+  {
+   "file": "marfa-lights.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/marfa-lights.jpg",
+   "date": "2026-11-04",
+   "title": "汽车出现一百多年之前，这片沙漠上空就已经有光在飘：马法之光",
+   "note": "马法观景台夜景，乔恩·汉森摄，维基共享资源，远处光点，非现象特写",
+   "post": "2026-11-04-rerun-test-3.md",
+   "size": 186652
+  },
+  {
+   "file": "mayes-county-map.png",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/mayes-county-map.png",
+   "date": "2026-11-08",
+   "title": "纸条提前写了要杀三个人，却被当成恶作剧扔掉：俄克拉荷马童子军谋杀案",
+   "note": "梅斯县定位图，标出案发地所在的县，来源：英文维基百科；未使用受害者照片",
+   "post": "2026-11-08-1.md",
+   "size": 81405
+  },
+  {
+   "file": "mayes-county-map.svg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/mayes-county-map.svg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 47644
+  },
+  {
+   "file": "media-generation-nanda-case-board-base-0-ed76855f-786f-49d9-82ce-4ac354c7a6ce.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/media-generation-nanda-case-board-base-0-ed76855f-786f-49d9-82ce-4ac354c7a6ce.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 526575
+  },
+  {
+   "file": "media-generation-nanda-case-board-base-1794875198.json",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/media-generation-nanda-case-board-base-1794875198.json",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 631
+  },
+  {
+   "file": "meng-zhaoguo-jingpo.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/meng-zhaoguo-jingpo.jpg",
+   "date": "2026-11-13",
+   "title": "测谎过了，物证被当垃圾扔了：凤凰山孟照国事件",
+   "note": "黑龙江镜泊湖一带山林实景，来源：维基共享资源；事发地五常凤凰山无可靠公开原图，此图非事发地",
+   "post": "2026-11-13-reserve-1.md",
+   "size": 148495
+  },
+  {
+   "file": "naga-fireball-commons-182.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/naga-fireball-commons-182.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 193602
+  },
+  {
+   "file": "naga-fireball-commons-185.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/naga-fireball-commons-185.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 198443
+  },
+  {
+   "file": "nina-tower-night.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/nina-tower-night.jpg",
+   "date": "2026-11-13",
+   "title": "风水师说遗嘱是真的，法官说遗嘱是假的，830亿就这么没了：龚如心遗产案",
+   "note": "荃湾如心广场夜景，矮楼以龚如心英文名Nina命名，高楼以其夫王德辉英文名Teddy命名，来源：维基共享资源，CC BY-SA 2.5，Baycrest 摄",
+   "post": "2026-11-13-2.md",
+   "size": 367307
+  },
+  {
+   "file": "pigmask-gonzalez.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/pigmask-gonzalez.jpg",
+   "date": "2026-11-10",
+   "title": "戴着猪面具砸劳力士店，被抓的那个说自己也是受害者：贝拉吉奥猪面具劫案",
+   "note": "冈萨雷斯被捕照片，来源：拉斯维加斯大都会警察局，经JCK刊登",
+   "post": "2026-11-10-2.md",
+   "size": 42082
+  },
+  {
+   "file": "powergrid-pulse.png",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/powergrid-pulse.png",
+   "date": "2026-11-10",
+   "title": "五大洲的电网每60秒一起心跳，查了十年，元凶是后备电源：电网60秒脉冲",
+   "note": "输电塔，来源：ScienceAlert原文配图",
+   "post": "2026-11-10-3.md",
+   "size": 263663
+  },
+  {
+   "file": "qiaojia.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/qiaojia.jpg",
+   "date": "2026-11-08",
+   "title": "死刑判了三次，改主意的却是同一家法院：李昌奎案",
+   "note": "云南昭通巧家县实景，事发地，来源：维基共享资源",
+   "post": "2026-11-08-2.md",
+   "size": 5227736
+  },
+  {
+   "file": "r631-orbit.gif",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/r631-orbit.gif",
+   "date": "2026-11-08",
+   "title": "142度倾斜、548年一圈，它在倒着绕太阳转：鲁宾望远镜发现逆行天体R631",
+   "note": "R631轨道模拟图，绿色为R631轨道，来源：EarthSky，模拟：Tony Dunn；非实拍",
+   "post": "2026-11-08-3.md",
+   "size": 545954
+  },
+  {
+   "file": "scales-justice.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/scales-justice.jpg",
+   "date": "2026-11-04",
+   "title": "“死者”活着回来了，被判死刑的人怎么办：佘祥林案",
+   "note": "天平示意图，非案件当事人或现场照片",
+   "post": "2026-11-04-1.md",
+   "size": 37647
+  },
+  {
+   "file": "shaffer-gateway.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/shaffer-gateway.jpg",
+   "date": "2026-11-14",
+   "title": "进了酒吧，就再也没出来：布莱恩·沙弗失踪案",
+   "note": "哥伦布市南校园门户大楼实景，丑金枪鱼酒吧所在地，来源：维基共享资源；酒吧监控画面无公开原图，用事发大楼实景代替",
+   "post": "2026-11-14-1.md",
+   "size": 444763
+  },
+  {
+   "file": "shag-harbour.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/shag-harbour.jpg",
+   "date": "2026-11-05",
+   "title": "飞机掉进海里，军方捞了三天，什么都没有：沙格港事件",
+   "note": "沙格港实景，维基共享资源照片，非事件当晚画面",
+   "post": "2026-11-05-4.md",
+   "size": 235025
+  },
+  {
+   "file": "shuiximen-square.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/shuiximen-square.jpg",
+   "date": "2026-11-07",
+   "title": "扶起一个人，赔了45876元：彭宇案",
+   "note": "南京水西门广场实景，事发地，来源：维基共享资源，CC BY-SA 3.0",
+   "post": "2026-11-07-2.md",
+   "size": 2756823
+  },
+  {
+   "file": "sodder-billboard.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/sodder-billboard.jpg",
+   "date": "2026-11-06",
+   "title": "五个孩子在圣诞夜大火里消失，灰烬里却连一根骨头都没有：索德尔五兄妹失踪案",
+   "note": "索德尔一家在16号公路边立的寻人广告牌，印有五个失踪孩子的照片，来源：英文维基百科",
+   "post": "2026-11-06-1.md",
+   "size": 62737
+  },
+  {
+   "file": "somerton-beach.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/somerton-beach.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 68176
+  },
+  {
+   "file": "somerton-beach.webp",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/somerton-beach.webp",
+   "date": "2026-11-04",
+   "title": "口袋里揣着“到此结束”，他却连名字都没留下：索默顿人案",
+   "note": "索默顿公园海滩资料照片，来自案件报道配图，非死者照片",
+   "post": "2026-11-04-2.md",
+   "size": 67668
+  },
+  {
+   "file": "south-station-1970.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/south-station-1970.jpg",
+   "date": "2026-11-12",
+   "title": "杀完人自己打电话报案，挂电话前先笑一声：波士顿\"咯咯笑\"杀手",
+   "note": "1970年1月2日波士顿南站废弃站台，Daniel Brody 摄，来源：维基共享资源，CC BY-SA 4.0；案发时的南站实景，非受害者照片",
+   "post": "2026-11-12-1.md",
+   "size": 2955005
+  },
+  {
+   "file": "springfield-downtown.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/springfield-downtown.jpg",
+   "date": "2026-11-13",
+   "title": "毕业典礼第二天，三个人在家里凭空消失了：斯普林菲尔德三人失踪案",
+   "note": "斯普林菲尔德市中心街景，来源：维基共享资源；案发住宅无公开照片，用事发城市实景代替",
+   "post": "2026-11-13-1.md",
+   "size": 317404
+  },
+  {
+   "file": "starship-flight8.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/starship-flight8.jpg",
+   "date": "2026-11-14",
+   "title": "全国飞机停飞，天上那个发光的东西还在飞：11月13日全美UFO之夜",
+   "note": "星舰第 8 次飞行时拍摄的高空尾焰，来源：维基共享资源；与当晚佛州目击同为暮光尾焰现象，此图非当晚画面",
+   "post": "2026-11-14-extra-ufo-night.md",
+   "size": 50783
+  },
+  {
+   "file": "taos-pueblo.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/taos-pueblo.jpg",
+   "date": "2026-11-05",
+   "title": "全镇只有2%的人听见，仪器却什么都没录到：塔奥斯嗡嗡声",
+   "note": "塔奥斯普韦布洛，塔奥斯地区实景，来源：The American Yawp，Luca Galuzzi 摄；非嗡嗡声本身，声音无法拍摄",
+   "post": "2026-11-05-3.md",
+   "size": 185732
+  },
+  {
+   "file": "tehran-f4.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/tehran-f4.jpg",
+   "date": "2026-11-04",
+   "title": "战斗机刚要开火，武器面板当场熄了：1976年德黑兰UFO拦截事件",
+   "note": "伊朗帝国空军的F-4E战斗机，挂着导弹，同期同型机，非当晚那两架；伊朗帝国空军摄，维基共享资源，公共领域，经案件档案站转载",
+   "post": "2026-11-04-extra-4.md",
+   "size": 70199
+  },
+  {
+   "file": "tianqi-map-1626.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/tianqi-map-1626.jpg",
+   "date": "2026-11-14",
+   "title": "火药库炸了，死者衣服却不翼而飞：王恭厂大爆炸",
+   "note": "约翰·斯比德1626年出版的《中国王国》地图，与爆炸同年，来源：维基共享资源；爆炸现场无存世图像，用同年地图代替",
+   "post": "2026-11-14-reserve-1.md",
+   "size": 638063
+  },
+  {
+   "file": "toll-plaza.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/toll-plaza.jpg",
+   "date": "2026-11-12",
+   "title": "逃368万过路费判无期，重审改判两年半：禹州天价过路费案",
+   "note": "中国高速公路收费站资料照片，湖北阳新县浮屠镇，Vmenkov 摄，来源：维基共享资源，CC BY-SA 3.0；非涉事的下汤收费站",
+   "post": "2026-11-12-2.md",
+   "size": 1695637
+  },
+  {
+   "file": "tunguska-trees.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/tunguska-trees.jpg",
+   "date": "2026-11-04",
+   "title": "天上多出一个太阳，2150平方公里森林被推平，现场却没有坑：通古斯大爆炸",
+   "note": "1929年5月库利克第三次科考队在爆心附近拍下的倒伏树木，Yevgeny Krinov 摄，维基共享资源，公共领域；原图已缩小",
+   "post": "2026-11-04-extra-2.md",
+   "size": 407913
+  },
+  {
+   "file": "turkey-vulture.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/turkey-vulture.jpg",
+   "date": "2026-11-14",
+   "title": "晴空万里，天上掉下生肉：肯塔基肉雨",
+   "note": "火鸡秃鹫飞行照，来源：维基共享资源；秃鹫呕吐说是目前最被认可的解释，图为该说的\"嫌疑人\"，非肉雨现场照片",
+   "post": "2026-11-14-3.md",
+   "size": 52145
+  },
+  {
+   "file": "uh1h-huey.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/uh1h-huey.jpg",
+   "date": "2026-11-12",
+   "title": "下降杆推到底，直升机却自己爬升1800英尺：科恩直升机事件",
+   "note": "UH-1H休伊直升机，同型机，Airwolfhound 摄，来源：维基共享资源，CC BY-SA 2.0；非涉事飞机",
+   "post": "2026-11-12-4.md",
+   "size": 8482590
+  },
+  {
+   "file": "villa-leopolda.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/villa-leopolda.jpg",
+   "date": "2026-11-09",
+   "title": "房子一平没住，3900万欧元定金先没了：利奥波德别墅案",
+   "note": "利奥波德别墅外景，法国滨海自由城，来源：维基共享资源",
+   "post": "2026-11-09-2.md",
+   "size": 341006
+  },
+  {
+   "file": "vt-j1906-radio.png",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/vt-j1906-radio.png",
+   "date": "2026-11-07",
+   "title": "亮了二十年，暗下去又亮回来：VT J1906+0849",
+   "note": "1996年、2005年、2017年三期射电观测对比，神秘源从无到有，来源：ScienceAlert原文配图，Miller et al., ApJ 2026",
+   "post": "2026-11-07-3.md",
+   "size": 75272
+  },
+  {
+   "file": "wow-printout.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/wow-printout.jpg",
+   "date": "2026-11-03",
+   "title": "只响了72秒、48年再没出现，科学家却说可能不是外星人：Wow!信号",
+   "note": "大耳朵望远镜原始打印纸，埃曼手写 Wow! 及圈出的 6EQUJ5，来源文章所载的打印纸原图",
+   "post": "2026-11-03-2.md",
+   "size": 169176
+  },
+  {
+   "file": "wynn-le-reve.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/wynn-le-reve.jpg",
+   "date": "2026-11-08",
+   "title": "一肘下去，1.39亿美元的毕加索破了个洞：永利《梦》案",
+   "note": "毕加索《梦》，1932年，来源：The Art Wolf；画布破洞位于画中人物手臂处",
+   "post": "2026-11-08-early-2.md",
+   "size": 66404
+  },
+  {
+   "file": "yuba-thumb.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/yuba-thumb.jpg",
+   "date": "2026-11-02",
+   "title": "食物和暖气就在手边，他却在小屋里撑了三个月，最后活活饿死：优巴县五人失踪案",
+   "note": "来源视频封面",
+   "post": "2026-11-02-1.md",
+   "size": 300284
+  },
+  {
+   "file": "zarelli-tombstone.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/zarelli-tombstone.jpg",
+   "date": "2026-11-05",
+   "title": "65年没有名字，DNA终于把他还给了世界：纸箱男童案",
+   "note": "2024年换上的刻有约瑟夫·奥古斯塔斯·扎雷利真名的墓碑，来源：Identifinders International",
+   "post": "2026-11-05-1.md",
+   "size": 109397
+  },
+  {
+   "file": "zhao.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/zhao.jpg",
+   "date": "2026-11-11",
+   "title": "“死人”活着走回村，被判死缓的人怎么办：赵作海案",
+   "note": "商丘古城墙实景，来源：维基共享资源，非案件现场照片",
+   "post": "2026-11-11-2.md",
+   "size": 273847
+  }
+ ]
+}
