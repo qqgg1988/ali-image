@@ -1,7 +1,7 @@
 {
  "repo": "qqgg1988/ali-image",
  "cdn_base": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main",
- "count": 107,
+ "count": 108,
  "images": [
   {
    "file": "2026-11-15-naga-fireballs.jpg",
@@ -281,6 +281,15 @@
    "note": "长江泰州段实景，来源：维基共享资源",
    "post": "2026-11-19-reserve-1.md",
    "size": 237948
+  },
+  {
+   "file": "2026-11-20-poyang-lake.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-20-poyang-lake.jpg",
+   "date": "2026-11-20",
+   "title": "200多条船沉在同一个地方，残骸却一艘都找不到：鄱阳湖老爷庙水域",
+   "note": "鄱阳湖卫星影像，欧洲空间局Envisat拍摄，来源：维基共享资源",
+   "post": "2026-11-20-reserve-1.md",
+   "size": 375202
   },
   {
    "file": "aguadilla-airport.jpg",
