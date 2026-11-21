@@ -1,7 +1,7 @@
 {
  "repo": "qqgg1988/ali-image",
  "cdn_base": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main",
- "count": 108,
+ "count": 113,
  "images": [
   {
    "file": "2026-11-15-naga-fireballs.jpg",
@@ -337,6 +337,15 @@
    "size": 4196312
   },
   {
+   "file": "bezos-2017.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/bezos-2017.jpg",
+   "date": "2026-11-21",
+   "title": "离一次婚，前妻直接变女首富，投票权还全还了回去：贝佐斯离婚案",
+   "note": "杰夫·贝佐斯2017年访问洛杉矶空军基地，美国空军照片，维基共享资源",
+   "post": "2026-11-21-2.md",
+   "size": 111352
+  },
+  {
    "file": "bladenboro-bobcat.jpg",
    "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/bladenboro-bobcat.jpg",
    "date": "2026-11-08",
@@ -353,6 +362,15 @@
    "note": "NOAA公布的Bloop声波频谱图，来源：维基共享资源",
    "post": "2026-11-06-3.md",
    "size": 16029
+  },
+  {
+   "file": "boulia-outback.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/boulia-outback.jpg",
+   "date": "2026-11-21",
+   "title": "追了你一整夜的光，天一亮就没了：澳洲明明之光",
+   "note": "昆士兰州布利亚镇外的荒漠公路，明明之光目击最集中的地区，维基共享资源照片；图中并非光现象本身",
+   "post": "2026-11-21-3.md",
+   "size": 36761
   },
   {
    "file": "calvine-photo.jpg",
@@ -398,6 +416,15 @@
    "note": "1855年《伦敦新闻画报》刊载的蹄印示意图，来源：维基共享资源",
    "post": "2026-11-11-3.md",
    "size": 33310
+  },
+  {
+   "file": "dover-sketch.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/dover-sketch.jpg",
+   "date": "2026-11-21",
+   "title": "三个少年看见同一个东西，眼睛颜色却对不上：多佛恶魔",
+   "note": "比尔·巴特利特1977年4月21日当晚画下的目击素描，维基百科配图",
+   "post": "2026-11-21-4.md",
+   "size": 69056
   },
   {
    "file": "eurasian-hobby.jpg",
@@ -542,6 +569,15 @@
    "note": "瓦希托山脉实景，来源：维基共享资源，非案发现场照片",
    "post": "2026-11-11-1.md",
    "size": 220245
+  },
+  {
+   "file": "joyita-1955.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/joyita-1955.jpg",
+   "date": "2026-11-21",
+   "title": "25个人上了船，船回来了，人一个都没回来：MV乔伊塔号幽灵船",
+   "note": "1955年11月被发现时半沉左倾的乔伊塔号，维基共享资源照片",
+   "post": "2026-11-21-1.md",
+   "size": 19303
   },
   {
    "file": "kerala-red-rain.jpg",
@@ -722,6 +758,15 @@
    "note": "输电塔，来源：ScienceAlert原文配图",
    "post": "2026-11-10-3.md",
    "size": 263663
+  },
+  {
+   "file": "qaidam-basin.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/qaidam-basin.jpg",
+   "date": "2026-11-21",
+   "title": "山里埋着15万年前的铁管，管子里却长出了年轮：德令哈白公山铁管",
+   "note": "柴达木盆地卫星图，白公山位于该盆地内，维基共享资源照片；图中并非铁管本身",
+   "post": "2026-11-21-reserve-1.md",
+   "size": 32859
   },
   {
    "file": "qiaojia.jpg",
