@@ -3,7 +3,7 @@
 阿力档案 · 每日悬案帖配图存档。直链格式：
 `https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/<文件名>`
 
-共 108 张。完整索引见 image_index.json。
+共 113 张。完整索引见 image_index.json。
 
 | 日期 | 帖子 | 文件 | 直链 |
 |---|---|---|---|
@@ -44,13 +44,16 @@
 | 2026-11-08 | 凌晨3点45分，9岁女孩独自走进暴雨：阿莎·德格里失踪案 | asha-lincoln.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/asha-lincoln.jpg |
 | 2026-11-04 | 取1000块只扣1块钱，他按了171次：许霆案 | atm.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/atm.jpg |
 | 2026-11-07 | 战斗机锁住了它三次，飞行员却什么都没看见：比利时UFO浪潮 | belgian-f16.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/belgian-f16.jpg |
+| 2026-11-21 | 离一次婚，前妻直接变女首富，投票权还全还了回去：贝佐斯离婚案 | bezos-2017.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/bezos-2017.jpg |
 | 2026-11-08 | 十天咬死七条狗，血却一滴不剩：布莱登伯勒野兽 | bladenboro-bobcat.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/bladenboro-bobcat.jpg |
 | 2026-11-06 | 一声巨响传了5000公里，科学家找了15年才知道它是什么：深海异响Bloop | bloop-spectrogram.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/bloop-spectrogram.jpg |
+| 2026-11-21 | 追了你一整夜的光，天一亮就没了：澳洲明明之光 | boulia-outback.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/boulia-outback.jpg |
 | 2026-11-14 | 拍到了，底片没了，人找不到了：卡尔文UFO照片 | calvine-photo.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/calvine-photo.jpg |
 | 2026-11-10 | 23架直升机围着一颗钻石飞，三个人回家就病倒了：卡什-兰德拉姆事件 | cash-landrum.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/cash-landrum.jpg |
 | 2026-11-04 | 军方自己派了调查队，光却照单全收地继续来了四个月：科拉里斯光束事件 | colares-mural.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/colares-mural.jpg |
 | 2026-11-06 | 母亲当众受辱，儿子一刀捅死讨债人，一审无期二审五年：于欢案 | court-gavel.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/court-gavel.jpg |
 | 2026-11-11 | 一夜之间，蹄印走过100英里雪地，还翻过屋顶：魔鬼脚印 | devil.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/devil.jpg |
+| 2026-11-21 | 三个少年看见同一个东西，眼睛颜色却对不上：多佛恶魔 | dover-sketch.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/dover-sketch.jpg |
 | 2026-11-05 | 掏了16只鸟，判了十年半：大学生掏鸟案 | eurasian-hobby.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/eurasian-hobby.jpg |
 | 2026-11-04 | 灯还亮着，人却没了：弗兰南群岛三守塔人失踪案 | flannan-lighthouse.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/flannan-lighthouse.jpg |
 | 2026-11-02 | “我们没时间了。”这是驾驶舱留下的最后一句话：佛罗里达私人飞机坠毁 | florida-crash.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/florida-crash.jpg |
@@ -67,6 +70,7 @@
 | 2026-11-03 | 用了八个假名、撕掉所有标签，她却连名字都没留下：冰谷女 | isdal-sketch.webp | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/isdal-sketch.webp |
 | 2026-11-06 | 机长说它比航母还大两倍，跟了747整整640公里：日航1628号班机事件 | jal1628-sketch.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/jal1628-sketch.jpg |
 | 2026-11-11 | 3.2万美元原封不动留在车里，一家三口却再也没回来：杰米森一家失踪案 | jamison.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/jamison.jpg |
+| 2026-11-21 | 25个人上了船，船回来了，人一个都没回来：MV乔伊塔号幽灵船 | joyita-1955.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/joyita-1955.jpg |
 | 2026-11-09 | 下了两个月血红色的雨，雨里还捞出了活细胞：喀拉拉红雨 | kerala-red-rain.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/kerala-red-rain.jpg |
 | 2026-11-09 | 两个雷达光点合而为一，战斗机那一个再也没分开：金罗斯事件 | kinross-airbase.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/kinross-airbase.jpg |
 | 2026-11-14 | 死刑判了，12年后他却在夜店当老板：孙小果案 | kunming-skyline.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/kunming-skyline.jpg |
@@ -87,6 +91,7 @@
 | 2026-11-13 | 风水师说遗嘱是真的，法官说遗嘱是假的，830亿就这么没了：龚如心遗产案 | nina-tower-night.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/nina-tower-night.jpg |
 | 2026-11-10 | 戴着猪面具砸劳力士店，被抓的那个说自己也是受害者：贝拉吉奥猪面具劫案 | pigmask-gonzalez.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/pigmask-gonzalez.jpg |
 | 2026-11-10 | 五大洲的电网每60秒一起心跳，查了十年，元凶是后备电源：电网60秒脉冲 | powergrid-pulse.png | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/powergrid-pulse.png |
+| 2026-11-21 | 山里埋着15万年前的铁管，管子里却长出了年轮：德令哈白公山铁管 | qaidam-basin.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/qaidam-basin.jpg |
 | 2026-11-08 | 死刑判了三次，改主意的却是同一家法院：李昌奎案 | qiaojia.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/qiaojia.jpg |
 | 2026-11-08 | 142度倾斜、548年一圈，它在倒着绕太阳转：鲁宾望远镜发现逆行天体R631 | r631-orbit.gif | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/r631-orbit.gif |
 | 2026-11-20 | 没人推也没风吹，几十斤的石头自己走了224米：死亡谷滑石 | racetrack-playa.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/racetrack-playa.jpg |
