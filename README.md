@@ -3,7 +3,7 @@
 阿力档案 · 每日悬案帖配图存档。直链格式：
 `https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/<文件名>`
 
-共 113 张。完整索引见 image_index.json。
+共 119 张。完整索引见 image_index.json。
 
 | 日期 | 帖子 | 文件 | 直链 |
 |---|---|---|---|
@@ -60,6 +60,7 @@
 | 2026-11-20 | 81分钟搬走5亿美元，35年过去墙上还挂着空画框：加德纳美术馆劫案 | gardner-empty-frames.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/gardner-empty-frames.jpg |
 | 2026-11-13 | 每8分钟响一次，响6小时又静26小时，5000光年外有颗死星在打点：GPM J071507 | gpm-j071507.png | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/gpm-j071507.png |
 | 2026-11-10 | 硬盘先被拆下来，人才消失：检察官雷·格里卡失踪案 | gricar.png | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/gricar.png |
+| 2026-11-22 | 提前9小时拉响警报，一百万人撤出，地震还是来了：1975年海城地震预报 | haicheng-city.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/haicheng-city.jpg |
 | 2026-11-20 | 副司令写了备忘录，国防部说没这回事：伦德尔沙姆森林事件 | halt-memo.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/halt-memo.jpg |
 | 2026-11-05 | 孙辈一分没留，狗先分到1200万美元：赫尔姆斯利遗产案 | helmsley-mausoleum.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/helmsley-mausoleum.jpg |
 | 2026-11-04 | 激光照过去，光球闪烁立刻翻倍：赫斯达伦之光 | hessdalen-valley.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/hessdalen-valley.jpg |
@@ -81,6 +82,8 @@
 | 2026-11-02 | “18点30分，服下胶囊，等待信号。”写下这行字后，两个人戴着铅面具死了：巴西铅面具案 | lead-masks.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/lead-masks.jpg |
 | 2026-11-04 | 一个名字是借来的，追了他六周的人到死都没听他说过一句话：疯狂捕手 | mad-trapper-posse.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/mad-trapper-posse.jpg |
 | 2026-11-04 | 汽车出现一百多年之前，这片沙漠上空就已经有光在飘：马法之光 | marfa-lights.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/marfa-lights.jpg |
+| 2026-11-22 | 撞车19分钟后，警察赶到时她已经不见了：莫拉·默里失踪案 | maura-route112.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/maura-route112.jpg |
+|  |  | maura2.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/maura2.jpg |
 | 2026-11-08 | 纸条提前写了要杀三个人，却被当成恶作剧扔掉：俄克拉荷马童子军谋杀案 | mayes-county-map.png | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/mayes-county-map.png |
 |  |  | mayes-county-map.svg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/mayes-county-map.svg |
 |  |  | media-generation-nanda-case-board-base-0-ed76855f-786f-49d9-82ce-4ac354c7a6ce.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/media-generation-nanda-case-board-base-0-ed76855f-786f-49d9-82ce-4ac354c7a6ce.jpg |
@@ -89,7 +92,9 @@
 |  |  | naga-fireball-commons-182.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/naga-fireball-commons-182.jpg |
 |  |  | naga-fireball-commons-185.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/naga-fireball-commons-185.jpg |
 | 2026-11-13 | 风水师说遗嘱是真的，法官说遗嘱是假的，830亿就这么没了：龚如心遗产案 | nina-tower-night.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/nina-tower-night.jpg |
+| 2026-11-22 | 雷达算出2.5马赫，文件却说证据不够：五角大楼UAP第八批解密 | pentagon-uap-radar-2023.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/pentagon-uap-radar-2023.jpg |
 | 2026-11-10 | 戴着猪面具砸劳力士店，被抓的那个说自己也是受害者：贝拉吉奥猪面具劫案 | pigmask-gonzalez.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/pigmask-gonzalez.jpg |
+| 2026-11-22 | 四次判了死刑，第八年他无罪走出法庭：念斌案 | pingtan-bridge.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/pingtan-bridge.jpg |
 | 2026-11-10 | 五大洲的电网每60秒一起心跳，查了十年，元凶是后备电源：电网60秒脉冲 | powergrid-pulse.png | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/powergrid-pulse.png |
 | 2026-11-21 | 山里埋着15万年前的铁管，管子里却长出了年轮：德令哈白公山铁管 | qaidam-basin.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/qaidam-basin.jpg |
 | 2026-11-08 | 死刑判了三次，改主意的却是同一家法院：李昌奎案 | qiaojia.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/qiaojia.jpg |
@@ -113,6 +118,7 @@
 | 2026-11-04 | 天上多出一个太阳，2150平方公里森林被推平，现场却没有坑：通古斯大爆炸 | tunguska-trees.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/tunguska-trees.jpg |
 | 2026-11-14 | 晴空万里，天上掉下生肉：肯塔基肉雨 | turkey-vulture.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/turkey-vulture.jpg |
 | 2026-11-12 | 下降杆推到底，直升机却自己爬升1800英尺：科恩直升机事件 | uh1h-huey.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/uh1h-huey.jpg |
+| 2026-11-22 | 每到春秋就响，整个太平洋都听得见，三十多年找不到声源：深海异响Upsweep | upsweep-spectrogram.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/upsweep-spectrogram.jpg |
 | 2026-11-09 | 房子一平没住，3900万欧元定金先没了：利奥波德别墅案 | villa-leopolda.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/villa-leopolda.jpg |
 | 2026-11-07 | 亮了二十年，暗下去又亮回来：VT J1906+0849 | vt-j1906-radio.png | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/vt-j1906-radio.png |
 | 2026-11-03 | 只响了72秒、48年再没出现，科学家却说可能不是外星人：Wow!信号 | wow-printout.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/wow-printout.jpg |
