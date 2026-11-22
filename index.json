@@ -1,7 +1,7 @@
 {
  "repo": "qqgg1988/ali-image",
  "cdn_base": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main",
- "count": 113,
+ "count": 119,
  "images": [
   {
    "file": "2026-11-15-naga-fireballs.jpg",
@@ -481,6 +481,15 @@
    "size": 90450
   },
   {
+   "file": "haicheng-city.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/haicheng-city.jpg",
+   "date": "2026-11-22",
+   "title": "提前9小时拉响警报，一百万人撤出，地震还是来了：1975年海城地震预报",
+   "note": "辽宁海城市区实景，维基共享资源照片，非1975年地震实拍",
+   "post": "2026-11-22-reserve-1.md",
+   "size": 339456
+  },
+  {
    "file": "halt-memo.jpg",
    "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/halt-memo.jpg",
    "date": "2026-11-20",
@@ -670,6 +679,24 @@
    "size": 186652
   },
   {
+   "file": "maura-route112.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/maura-route112.jpg",
+   "date": "2026-11-22",
+   "title": "撞车19分钟后，警察赶到时她已经不见了：莫拉·默里失踪案",
+   "note": "莫拉·默里失踪的新罕布什尔州112号公路实景，维基共享资源公有领域照片，非案发当晚实拍",
+   "post": "2026-11-22-1.md",
+   "size": 307054
+  },
+  {
+   "file": "maura2.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/maura2.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 3411
+  },
+  {
    "file": "mayes-county-map.png",
    "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/mayes-county-map.png",
    "date": "2026-11-08",
@@ -742,6 +769,15 @@
    "size": 367307
   },
   {
+   "file": "pentagon-uap-radar-2023.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/pentagon-uap-radar-2023.jpg",
+   "date": "2026-11-22",
+   "title": "雷达算出2.5马赫，文件却说证据不够：五角大楼UAP第八批解密",
+   "note": "五角大楼第八批解密文件中的2023年西部雷达探测图，美国防部提供，EarthSky 转载",
+   "post": "2026-11-22-4.md",
+   "size": 133042
+  },
+  {
    "file": "pigmask-gonzalez.jpg",
    "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/pigmask-gonzalez.jpg",
    "date": "2026-11-10",
@@ -749,6 +785,15 @@
    "note": "冈萨雷斯被捕照片，来源：拉斯维加斯大都会警察局，经JCK刊登",
    "post": "2026-11-10-2.md",
    "size": 42082
+  },
+  {
+   "file": "pingtan-bridge.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/pingtan-bridge.jpg",
+   "date": "2026-11-22",
+   "title": "四次判了死刑，第八年他无罪走出法庭：念斌案",
+   "note": "福建平潭公铁大桥实景，维基共享资源 CC BY-SA 4.0 照片，非案发地实拍",
+   "post": "2026-11-22-2.md",
+   "size": 723646
   },
   {
    "file": "powergrid-pulse.png",
@@ -956,6 +1001,15 @@
    "note": "UH-1H休伊直升机，同型机，Airwolfhound 摄，来源：维基共享资源，CC BY-SA 2.0；非涉事飞机",
    "post": "2026-11-12-4.md",
    "size": 8482590
+  },
+  {
+   "file": "upsweep-spectrogram.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/upsweep-spectrogram.jpg",
+   "date": "2026-11-22",
+   "title": "每到春秋就响，整个太平洋都听得见，三十多年找不到声源：深海异响Upsweep",
+   "note": "NOAA 录制的 Upsweep 声谱图，NOAA 公共领域",
+   "post": "2026-11-22-3.md",
+   "size": 51226
   },
   {
    "file": "villa-leopolda.jpg",
