@@ -3,7 +3,7 @@
 阿力档案 · 每日悬案帖配图存档。直链格式：
 `https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/<文件名>`
 
-共 120 张。完整索引见 image_index.json。
+共 125 张。完整索引见 image_index.json。
 
 | 日期 | 帖子 | 文件 | 直链 |
 |---|---|---|---|
@@ -39,7 +39,12 @@
 | 2026-11-19 | 她说地球从来不是人类的：莱瑟塔档案 | 2026-11-19-sweden.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-19-sweden.jpg |
 | 2026-11-19 | 亚洲第一大江，突然断流两小时：1954年长江断流 | 2026-11-19-yangtze.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-19-yangtze.jpg |
 | 2026-11-20 | 200多条船沉在同一个地方，残骸却一艘都找不到：鄱阳湖老爷庙水域 | 2026-11-20-poyang-lake.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-20-poyang-lake.jpg |
-| 2026-11-23 | 死前29天，她留下一条短信：看到说我自杀的报道，千万别信：艾米·埃斯克里奇事件 | 2026-11-23-eskridge-interview.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-23-eskridge-interview.jpg |
+|  |  | 2026-11-23-1-anaheim.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-23-1-anaheim.jpg |
+|  |  | 2026-11-23-2-pig-mask.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-23-2-pig-mask.jpg |
+|  |  | 2026-11-23-3-devils-kettle.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-23-3-devils-kettle.jpg |
+|  |  | 2026-11-23-4-mesopotamian-gods.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-23-4-mesopotamian-gods.jpg |
+| 2026-11-23 | 死前29天她留下短信：说我自杀的报道，千万别信：艾米·埃斯克里奇事件 | 2026-11-23-eskridge-interview.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-23-eskridge-interview.jpg |
+|  |  | 2026-11-23-reserve-1-south-china-tiger.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-23-reserve-1-south-china-tiger.jpg |
 | 2026-11-08 | 入水不减速，出水一变二，军方十年后说是孔明灯：阿瓜迪利亚UAP事件 | aguadilla-airport.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/aguadilla-airport.jpg |
 | 2026-11-13 | 她本来只想拍彩虹，镜头里却飘过一只水母：安克雷奇水母状不明物 | anchorage-jellyfish-2026.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/anchorage-jellyfish-2026.jpg |
 | 2026-11-08 | 凌晨3点45分，9岁女孩独自走进暴雨：阿莎·德格里失踪案 | asha-lincoln.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/asha-lincoln.jpg |
