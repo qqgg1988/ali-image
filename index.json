@@ -1,7 +1,7 @@
 {
  "repo": "qqgg1988/ali-image",
  "cdn_base": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main",
- "count": 120,
+ "count": 125,
  "images": [
   {
    "file": "2026-11-15-naga-fireballs.jpg",
@@ -292,13 +292,58 @@
    "size": 375202
   },
   {
+   "file": "2026-11-23-1-anaheim.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-23-1-anaheim.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 509722
+  },
+  {
+   "file": "2026-11-23-2-pig-mask.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-23-2-pig-mask.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 268559
+  },
+  {
+   "file": "2026-11-23-3-devils-kettle.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-23-3-devils-kettle.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 495871
+  },
+  {
+   "file": "2026-11-23-4-mesopotamian-gods.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-23-4-mesopotamian-gods.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 127591
+  },
+  {
    "file": "2026-11-23-eskridge-interview.jpg",
    "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-23-eskridge-interview.jpg",
    "date": "2026-11-23",
-   "title": "死前29天，她留下一条短信：看到说我自杀的报道，千万别信：艾米·埃斯克里奇事件",
+   "title": "死前29天她留下短信：说我自杀的报道，千万别信：艾米·埃斯克里奇事件",
    "note": "艾米·埃斯克里奇2020年访谈视频封面，YouTube原视频截图",
    "post": "2026-11-23-extra-eskridge.md",
    "size": 25705
+  },
+  {
+   "file": "2026-11-23-reserve-1-south-china-tiger.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-23-reserve-1-south-china-tiger.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 177916
   },
   {
    "file": "aguadilla-airport.jpg",
