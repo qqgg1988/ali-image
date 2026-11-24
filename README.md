@@ -3,7 +3,7 @@
 阿力档案 · 每日悬案帖配图存档。直链格式：
 `https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/<文件名>`
 
-共 125 张。完整索引见 image_index.json。
+共 130 张。完整索引见 image_index.json。
 
 | 日期 | 帖子 | 文件 | 直链 |
 |---|---|---|---|
@@ -45,6 +45,11 @@
 |  |  | 2026-11-23-4-mesopotamian-gods.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-23-4-mesopotamian-gods.jpg |
 | 2026-11-23 | 死前29天她留下短信：说我自杀的报道，千万别信：艾米·埃斯克里奇事件 | 2026-11-23-eskridge-interview.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-23-eskridge-interview.jpg |
 |  |  | 2026-11-23-reserve-1-south-china-tiger.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-23-reserve-1-south-china-tiger.jpg |
+|  |  | 2026-11-24-asha-degree-shelby.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-24-asha-degree-shelby.jpg |
+|  |  | 2026-11-24-blue-whale.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-24-blue-whale.jpg |
+|  |  | 2026-11-24-harold-hamm.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-24-harold-hamm.jpg |
+|  |  | 2026-11-24-kecksburg-ufo.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-24-kecksburg-ufo.jpg |
+|  |  | 2026-11-24-xiaoshan-airport.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-24-xiaoshan-airport.jpg |
 | 2026-11-08 | 入水不减速，出水一变二，军方十年后说是孔明灯：阿瓜迪利亚UAP事件 | aguadilla-airport.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/aguadilla-airport.jpg |
 | 2026-11-13 | 她本来只想拍彩虹，镜头里却飘过一只水母：安克雷奇水母状不明物 | anchorage-jellyfish-2026.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/anchorage-jellyfish-2026.jpg |
 | 2026-11-08 | 凌晨3点45分，9岁女孩独自走进暴雨：阿莎·德格里失踪案 | asha-lincoln.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/asha-lincoln.jpg |
