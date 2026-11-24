@@ -1,7 +1,7 @@
 {
  "repo": "qqgg1988/ali-image",
  "cdn_base": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main",
- "count": 130,
+ "count": 131,
  "images": [
   {
    "file": "2026-11-15-naga-fireballs.jpg",
@@ -389,6 +389,15 @@
    "note": "",
    "post": "",
    "size": 187612
+  },
+  {
+   "file": "2026-11-24-yellow-medicine-river.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-24-yellow-medicine-river.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 434836
   },
   {
    "file": "aguadilla-airport.jpg",
