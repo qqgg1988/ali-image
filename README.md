@@ -3,7 +3,7 @@
 阿力档案 · 每日悬案帖配图存档。直链格式：
 `https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/<文件名>`
 
-共 131 张。完整索引见 image_index.json。
+共 136 张。完整索引见 image_index.json。
 
 | 日期 | 帖子 | 文件 | 直链 |
 |---|---|---|---|
@@ -51,6 +51,11 @@
 |  |  | 2026-11-24-kecksburg-ufo.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-24-kecksburg-ufo.jpg |
 |  |  | 2026-11-24-xiaoshan-airport.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-24-xiaoshan-airport.jpg |
 |  |  | 2026-11-24-yellow-medicine-river.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-24-yellow-medicine-river.jpg |
+|  |  | 2026-11-25-fairy-circles.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-25-fairy-circles.jpg |
+|  |  | 2026-11-25-flatwoods-1952.png | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-25-flatwoods-1952.png |
+|  |  | 2026-11-25-hohhot-old-town.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-25-hohhot-old-town.jpg |
+|  |  | 2026-11-25-mailiao-zhongshan-road.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-25-mailiao-zhongshan-road.jpg |
+|  |  | 2026-11-25-rhapsody-of-the-seas.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-25-rhapsody-of-the-seas.jpg |
 | 2026-11-08 | 入水不减速，出水一变二，军方十年后说是孔明灯：阿瓜迪利亚UAP事件 | aguadilla-airport.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/aguadilla-airport.jpg |
 | 2026-11-13 | 她本来只想拍彩虹，镜头里却飘过一只水母：安克雷奇水母状不明物 | anchorage-jellyfish-2026.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/anchorage-jellyfish-2026.jpg |
 | 2026-11-08 | 凌晨3点45分，9岁女孩独自走进暴雨：阿莎·德格里失踪案 | asha-lincoln.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/asha-lincoln.jpg |
