@@ -1,7 +1,7 @@
 {
  "repo": "qqgg1988/ali-image",
  "cdn_base": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main",
- "count": 131,
+ "count": 136,
  "images": [
   {
    "file": "2026-11-15-naga-fireballs.jpg",
@@ -398,6 +398,51 @@
    "note": "",
    "post": "",
    "size": 434836
+  },
+  {
+   "file": "2026-11-25-fairy-circles.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-25-fairy-circles.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 473776
+  },
+  {
+   "file": "2026-11-25-flatwoods-1952.png",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-25-flatwoods-1952.png",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 581853
+  },
+  {
+   "file": "2026-11-25-hohhot-old-town.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-25-hohhot-old-town.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 284863
+  },
+  {
+   "file": "2026-11-25-mailiao-zhongshan-road.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-25-mailiao-zhongshan-road.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 384187
+  },
+  {
+   "file": "2026-11-25-rhapsody-of-the-seas.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-25-rhapsody-of-the-seas.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 250437
   },
   {
    "file": "aguadilla-airport.jpg",
