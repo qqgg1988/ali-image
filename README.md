@@ -3,7 +3,7 @@
 阿力档案 · 每日悬案帖配图存档。直链格式：
 `https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/<文件名>`
 
-共 146 张。完整索引见 image_index.json。
+共 151 张。完整索引见 image_index.json。
 
 | 日期 | 帖子 | 文件 | 直链 |
 |---|---|---|---|
@@ -66,6 +66,11 @@
 |  |  | 2026-11-27-chongqing-countryside.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-27-chongqing-countryside.jpg |
 |  |  | 2026-11-27-haikou-qilou.png | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-27-haikou-qilou.png |
 |  |  | 2026-11-27-taos-pueblo.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-27-taos-pueblo.jpg |
+|  |  | 2026-11-28-big-ring.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-28-big-ring.jpg |
+|  |  | 2026-11-28-hinterkaifeck-farm.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-28-hinterkaifeck-farm.jpg |
+|  |  | 2026-11-28-kaikoura-lights.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-28-kaikoura-lights.jpg |
+|  |  | 2026-11-28-masson-pine.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-28-masson-pine.jpg |
+|  |  | 2026-11-28-sheikh-mohammed.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-28-sheikh-mohammed.jpg |
 | 2026-11-08 | 入水不减速，出水一变二，军方十年后说是孔明灯：阿瓜迪利亚UAP事件 | aguadilla-airport.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/aguadilla-airport.jpg |
 | 2026-11-13 | 她本来只想拍彩虹，镜头里却飘过一只水母：安克雷奇水母状不明物 | anchorage-jellyfish-2026.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/anchorage-jellyfish-2026.jpg |
 | 2026-11-08 | 凌晨3点45分，9岁女孩独自走进暴雨：阿莎·德格里失踪案 | asha-lincoln.jpg | https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/asha-lincoln.jpg |
