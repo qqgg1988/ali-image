@@ -1,7 +1,7 @@
 {
  "repo": "qqgg1988/ali-image",
  "cdn_base": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main",
- "count": 146,
+ "count": 151,
  "images": [
   {
    "file": "2026-11-15-naga-fireballs.jpg",
@@ -533,6 +533,51 @@
    "note": "",
    "post": "",
    "size": 1202292
+  },
+  {
+   "file": "2026-11-28-big-ring.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-28-big-ring.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 25382
+  },
+  {
+   "file": "2026-11-28-hinterkaifeck-farm.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-28-hinterkaifeck-farm.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 205848
+  },
+  {
+   "file": "2026-11-28-kaikoura-lights.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-28-kaikoura-lights.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 1541984
+  },
+  {
+   "file": "2026-11-28-masson-pine.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-28-masson-pine.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 3326629
+  },
+  {
+   "file": "2026-11-28-sheikh-mohammed.jpg",
+   "url": "https://cdn.jsdelivr.net/gh/qqgg1988/ali-image@main/daily/2026-11-28-sheikh-mohammed.jpg",
+   "date": "",
+   "title": "",
+   "note": "",
+   "post": "",
+   "size": 516959
   },
   {
    "file": "aguadilla-airport.jpg",
